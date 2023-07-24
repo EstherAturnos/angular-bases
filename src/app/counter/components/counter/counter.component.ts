@@ -10,7 +10,7 @@ import { Component } from '@angular/core';
   `
 })
 
-export class AppComponent{
+export class CounterComponent{
 
   public title: string ='Hola mundo';
   public counter: number =10;
